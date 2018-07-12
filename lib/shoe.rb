@@ -1,2 +1,3 @@
 # shoe.rb
 
+class 
