@@ -1,5 +1,5 @@
 # shoe.rb
 
 class Shoe
-  attr_accessible
+  attr_acce
   
