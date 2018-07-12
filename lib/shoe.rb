@@ -1,1 +1,2 @@
-# shoe.
+# shoe.rb
+
