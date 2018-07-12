@@ -3,4 +3,4 @@
 class Shoe
   attr_accessor
   
- def initialize(title)
+ def initialize(brand)
