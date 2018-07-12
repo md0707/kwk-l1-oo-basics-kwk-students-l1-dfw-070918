@@ -1,3 +1,3 @@
 # shoe.rb
 
-class 
+class Shoe
